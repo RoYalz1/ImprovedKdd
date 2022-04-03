@@ -8,7 +8,7 @@ Rar password is 1234
 
 1. Extract
 
-2. Then run Installer.bat
+2. Then run Installer.bat as Admin
 
 #
 Credits/thanks to:
