@@ -3,12 +3,12 @@ Improved version repost
 
 Download: https://drive.google.com/file/d/1GBvqRWpwoNw2N65pu-gKzHbSJhRT9ldG/view?usp=sharing
 
-# Rar password
-1234
+# How To Install
+Rar password is 1234
 
-Extract First!
+1. Extract
 
-Then run Installer.bat
+2. Then run Installer.bat
 
 #
 Credits/thanks to:
